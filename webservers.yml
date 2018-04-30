@@ -4,8 +4,7 @@
   remote_user: centos
   become: yes
   become_user: root
-#  gather_facts: yes
-  gather_facts: false
+  gather_facts: yes
   roles:
     - common
     - nginx
