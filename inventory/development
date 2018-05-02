@@ -3,10 +3,10 @@ lb.testonji.local
 
 [webservers]
 web1.testonji.local
-web2.testonji.local
+#web2.testonji.local
 
 [ciservers]
 localhost
 
-[kibanaservers]
-kibana.testonji.local
+#[kibanaservers]
+#kibana.testonji.local
